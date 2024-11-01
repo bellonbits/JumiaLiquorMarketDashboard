@@ -1,0 +1,415 @@
+id,name,current_price,old_price,discount,ratings,timestamp
+1,Seagrams Seagrams Imperial Blue Whiskey - 750ml,849,1143,26,4.3,2024-10-31 23:31:18
+2,Jameson Jameson Irish Whiskey - 750 Ml,2199,2930,25,4.7,2024-10-31 23:31:18
+3,William Lawson's William Lawson's Scotch Whisky – 750ml,1199,1990,40,4.5,2024-10-31 23:31:18
+4,Chrome Chrome Gin - 750ml,669,760,12,4.4,2024-10-31 23:31:18
+5,Jameson Jameson Irish Whiskey - 1 Litre,2999,3736,20,4.6,2024-10-31 23:31:18
+6,Hampton American Malt Blended Whiskey - 750ml,1450,1700,15,4.4,2024-10-31 23:31:18
+7,William Lawson's William Lawsons Scotch Whisky - 1 Litre,1799,2650,32,4.8,2024-10-31 23:31:18
+8,Ballantine's Ballantine's Blended Scotch Whiskey - 750 Ml.,1999,2482,19,4.7,2024-10-31 23:31:18
+9,Ballantine Ballantine Blended Scotch Whiskey - 1L,2599,3309,21,4.5,2024-10-31 23:31:18
+10,Johnnie Walker Johnnie Walker Black 12Y - 750ml,2999,4200,29,4.4,2024-10-31 23:31:18
+11,Gilbey's Gilbey's Gilbeys Gin - 750 ML,999,1550,36,4.3,2024-10-31 23:31:18
+12,Johnnie Walker Johnnie Walker Red Label - 750 ML,1599,2300,30,4.5,2024-10-31 23:31:18
+13,Black Bird Natural Sweet Red Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:31:18
+14,Black & White Black & White Whisky - 750ml,1249,1400,11,4.5,2024-10-31 23:31:18
+15,Tusker Tusker Lager Can - 500ml - Pack of 6,1099,1380,20,4.7,2024-10-31 23:31:18
+16,Jacob's Creek Jacob's Creek Classic Merlot 750Ml,1299,1439,10,4.5,2024-10-31 23:31:18
+17,Captain Morgan Captain Morgan Gold Rum - 750ml,999,1150,13,4.8,2024-10-31 23:31:18
+18,Johnnie Walker Johnnie Walker Red Label - 1 Litre,2199,2800,21,4.6,2024-10-31 23:31:18
+19,Malibu Malibu Carribean Rum With Coconut Liqueur - 700ml,1799,2060,13,4.7,2024-10-31 23:31:18
+20,Bacardi Bacardi Carta De Oro 750ml,1699,2425,30,4.6,2024-10-31 23:31:18
+21,Martini Martini Bianco 750ml,2199,2645,17,4.7,2024-10-31 23:31:18
+22,Bombay Bombay Sapphire Gin 750ml,2799,3640,23,5.0,2024-10-31 23:31:18
+23,Johnnie Walker Johnnie Walker Black Label - 1litre,3899,5200,25,4.5,2024-10-31 23:31:18
+24,Absolut Absolut Vodka Blue - 750ml,2199,2457,11,4.5,2024-10-31 23:31:18
+25,Balozi Lager Cans 500ml - Pack of 6,1099,1380,20,4.8,2024-10-31 23:31:18
+26,William Lawson's WillIam Lawsons Spiced Whisky 700ml,1699,2020,16,4.4,2024-10-31 23:31:18
+27,Black Bird Natural Sweet White Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:31:18
+28,Absolut Vodka Citron - 750ML,1834,0,0,4.9,2024-10-31 23:31:18
+29,Bacardi Bacardi Carta Negra 750ml,1799,2425,26,4.6,2024-10-31 23:31:18
+30,Beefeater Beefeater London Dry Gin - 750ml,2199,2886,24,4.7,2024-10-31 23:31:18
+31,Tusker Tusker Cider Can - 500ml - Pack Of 6,1349,1590,15,4.5,2024-10-31 23:31:18
+32,Impact Stinging Nettle Thabai Powder Organic And Pure-100g,220,430,49,4.3,2024-10-31 23:31:18
+33,Playa Del Sol Malbec Dry Red Wine - 750ml,1495,1950,23,5.0,2024-10-31 23:31:18
+34,Martini Martini Fierro 750ml,1699,2577,34,4.7,2024-10-31 23:31:18
+35,SLIMMING TEA 28 Day Extreme Detox Weight loss Tea Fat burn Cleanse Appetite Control flat tummy tea small waist,1145,2000,43,5.0,2024-10-31 23:31:18
+36,Smirnoff Smirnoff Red Vodka - 750ml,1199,1550,23,4.8,2024-10-31 23:31:18
+37,Jameson Jameson Black Barrel Irish Whiskey - 750ml,4199,4591,9,4.5,2024-10-31 23:31:18
+38,Malfy Malfy Gin Con Limone - 750ml,3999,4705,15,5.0,2024-10-31 23:31:18
+39,Martini Martini Prosecco,2119,0,0,4.7,2024-10-31 23:31:18
+40,Finlays Green Instant Tea (soluble Green Granules 40grams),950,1000,5,4.9,2024-10-31 23:31:18
+41,Bacardi Bacardi Spiced 700ml,1799,2336,23,4.3,2024-10-31 23:31:25
+42,Bombay Bombay Sapphire Gin (Bramble) - 750ml,2749,4275,36,4.6,2024-10-31 23:31:25
+43,Bombay Bombay Dry Gin - 750ml,1899,2675,29,4.6,2024-10-31 23:31:25
+44,Don Montego Vsop Brandy - 750ml,1950,2400,19,5.0,2024-10-31 23:31:25
+45,Carmela Sparkling White Semi-sweet Wine - 750ml,1600,1800,11,4.6,2024-10-31 23:31:25
+46,Martini Martini Rosso 750ml,2299,2645,13,4.7,2024-10-31 23:31:25
+47,Lato Milk UHT Whole Milk 500ml 18 Pcs,1800,0,0,5.0,2024-10-31 23:31:25
+48,Campo Viejo Campo Viejo Reserva Red Wine - 750 ML,1999,2319,14,4.7,2024-10-31 23:31:25
+49,Weight Loss Green  Instant Coffee,989,1200,18,0.0,2024-10-31 23:31:25
+50,Inverroche Inverroche Classic Gin - 750ml,4799,5484,12,4.9,2024-10-31 23:31:25
+51,Malfy Malfy Gin Con Rosa - 750ml,3999,4705,15,4.9,2024-10-31 23:31:25
+52,Tanqueray Tanqueray Nº Ten - 750 ML,4699,5100,8,5.0,2024-10-31 23:31:25
+53,Olmeca Silver Tequila – 700ml,2948,0,0,4.8,2024-10-31 23:31:25
+54,Johnnie Walker Johnnie Walker Gold Label Reserve - 750ml,7699,8800,13,0.0,2024-10-31 23:31:25
+55,Vina Lastra Red Dry Wine - 750ml,1400,0,0,3.8,2024-10-31 23:31:25
+56,Olmeca Olmeca Tequila Gold - 700ml,2599,2948,12,5.0,2024-10-31 23:31:25
+57,Malfy Malfy Gin Originale - 750ml,3999,4705,15,5.0,2024-10-31 23:31:25
+58,Electio Dry Red Cabernet Sauvignon Wine - 750ml,1225,1600,23,4.7,2024-10-31 23:31:25
+59,Chivas Chivas XV 15 years scotch whiskey - 750ml,7323,0,0,3.6,2024-10-31 23:31:25
+60,Blackseeds oil,1000,0,0,0.0,2024-10-31 23:31:25
+61,Cilmor Shiraz Pinotage Malbec Vintage Limited Edition Dry Red 750ml,2500,0,0,5.0,2024-10-31 23:31:25
+62,Lato Milk 250ML With Straw -24pcs,1600,0,0,5.0,2024-10-31 23:31:25
+63,Beefeater Beefeater London Pink Gin - 750ML,2299,3070,25,4.7,2024-10-31 23:31:25
+64,4th Street Red Sweet Wine - 5 Litres,6000,0,0,4.8,2024-10-31 23:31:25
+65,Dynapham Instant Coffee Mixture With Tongkat Ali,4000,8000,50,5.0,2024-10-31 23:31:25
+66,Absolut Absolut Mango Flavored Vodka - 750ml,2615,0,0,4.7,2024-10-31 23:31:25
+67,Beefeater London Dry Gin - 750ml,2886,0,0,4.5,2024-10-31 23:31:25
+68,Lofera Organic Herbal Flat Tummy Weight Loss Tea Detox Tea,1800,0,0,0.0,2024-10-31 23:31:25
+69,Gibsons Coffee Gibsons Instant Coffee 100g - (Pack of 3),1881,1980,5,0.0,2024-10-31 23:31:25
+70,Old Monk Rum 750ml,3705,5500,33,0.0,2024-10-31 23:31:25
+71,100% Organic Slim Tea Weight Loss Tea Fat Loss Tea 28days,1150,2200,50,3.5,2024-10-31 23:31:25
+72,Edmark Cafe  GINSENG,2550,0,0,0.0,2024-10-31 23:31:25
+73,Equatorial Naturals Neem & Tea Muarubaini - 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:31:25
+74,Equatorial Naturals Stinging Nettle (Thabai) 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:31:25
+75,Campari  Bitter Apéritif Rum,5000,6800,31,4.0,2024-10-31 23:31:25
+76,THREE ANGELS Soya Drink 100g,499,0,0,0.0,2024-10-31 23:31:25
+77,TRA Sliming Tea Catherine Herbal Infusion Detox Chrysanthemum,2500,0,0,0.0,2024-10-31 23:31:25
+78,THREE ANGELS Hibiscus Flower Powder 200G,695,0,0,2.7,2024-10-31 23:31:25
+79,Glenfiddich Whiskey 12 Years - 1 Litre,10000,0,0,0.0,2024-10-31 23:31:25
+80,Cellar Cask Sweet Red Wine 5 Litres,6400,9400,32,0.0,2024-10-31 23:31:25
+81,Seagrams Seagrams Imperial Blue Whiskey - 750ml,849,1143,26,4.3,2024-10-31 23:32:13
+82,Jameson Jameson Irish Whiskey - 750 Ml,2199,2930,25,4.7,2024-10-31 23:32:13
+83,William Lawson's William Lawson's Scotch Whisky – 750ml,1199,1990,40,4.5,2024-10-31 23:32:13
+84,Chrome Chrome Gin - 750ml,669,760,12,4.4,2024-10-31 23:32:13
+85,Jameson Jameson Irish Whiskey - 1 Litre,2999,3736,20,4.6,2024-10-31 23:32:13
+86,Hampton American Malt Blended Whiskey - 750ml,1450,1700,15,4.4,2024-10-31 23:32:13
+87,William Lawson's William Lawsons Scotch Whisky - 1 Litre,1799,2650,32,4.8,2024-10-31 23:32:13
+88,Ballantine's Ballantine's Blended Scotch Whiskey - 750 Ml.,1999,2482,19,4.7,2024-10-31 23:32:13
+89,Ballantine Ballantine Blended Scotch Whiskey - 1L,2599,3309,21,4.5,2024-10-31 23:32:13
+90,Johnnie Walker Johnnie Walker Black 12Y - 750ml,2999,4200,29,4.4,2024-10-31 23:32:13
+91,Gilbey's Gilbey's Gilbeys Gin - 750 ML,999,1550,36,4.3,2024-10-31 23:32:13
+92,Johnnie Walker Johnnie Walker Red Label - 750 ML,1599,2300,30,4.5,2024-10-31 23:32:13
+93,Black Bird Natural Sweet Red Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:32:13
+94,Black & White Black & White Whisky - 750ml,1249,1400,11,4.5,2024-10-31 23:32:13
+95,Tusker Tusker Lager Can - 500ml - Pack of 6,1099,1380,20,4.7,2024-10-31 23:32:13
+96,Jacob's Creek Jacob's Creek Classic Merlot 750Ml,1299,1439,10,4.5,2024-10-31 23:32:13
+97,Captain Morgan Captain Morgan Gold Rum - 750ml,999,1150,13,4.8,2024-10-31 23:32:13
+98,Johnnie Walker Johnnie Walker Red Label - 1 Litre,2199,2800,21,4.6,2024-10-31 23:32:13
+99,Malibu Malibu Carribean Rum With Coconut Liqueur - 700ml,1799,2060,13,4.7,2024-10-31 23:32:13
+100,Bacardi Bacardi Carta De Oro 750ml,1699,2425,30,4.6,2024-10-31 23:32:13
+101,Martini Martini Bianco 750ml,2199,2645,17,4.7,2024-10-31 23:32:13
+102,Bombay Bombay Sapphire Gin 750ml,2799,3640,23,5.0,2024-10-31 23:32:13
+103,Johnnie Walker Johnnie Walker Black Label - 1litre,3899,5200,25,4.5,2024-10-31 23:32:14
+104,Absolut Absolut Vodka Blue - 750ml,2199,2457,11,4.5,2024-10-31 23:32:14
+105,Balozi Lager Cans 500ml - Pack of 6,1099,1380,20,4.8,2024-10-31 23:32:14
+106,William Lawson's WillIam Lawsons Spiced Whisky 700ml,1699,2020,16,4.4,2024-10-31 23:32:14
+107,Black Bird Natural Sweet White Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:32:14
+108,Absolut Vodka Citron - 750ML,1834,0,0,4.9,2024-10-31 23:32:14
+109,Bacardi Bacardi Carta Negra 750ml,1799,2425,26,4.6,2024-10-31 23:32:14
+110,Beefeater Beefeater London Dry Gin - 750ml,2199,2886,24,4.7,2024-10-31 23:32:14
+111,Tusker Tusker Cider Can - 500ml - Pack Of 6,1349,1590,15,4.5,2024-10-31 23:32:14
+112,Impact Stinging Nettle Thabai Powder Organic And Pure-100g,220,430,49,4.3,2024-10-31 23:32:14
+113,Playa Del Sol Malbec Dry Red Wine - 750ml,1495,1950,23,5.0,2024-10-31 23:32:14
+114,Martini Martini Fierro 750ml,1699,2577,34,4.7,2024-10-31 23:32:14
+115,SLIMMING TEA 28 Day Extreme Detox Weight loss Tea Fat burn Cleanse Appetite Control flat tummy tea small waist,1145,2000,43,5.0,2024-10-31 23:32:14
+116,Smirnoff Smirnoff Red Vodka - 750ml,1199,1550,23,4.8,2024-10-31 23:32:14
+117,Jameson Jameson Black Barrel Irish Whiskey - 750ml,4199,4591,9,4.5,2024-10-31 23:32:14
+118,Malfy Malfy Gin Con Limone - 750ml,3999,4705,15,5.0,2024-10-31 23:32:14
+119,Martini Martini Prosecco,2119,0,0,4.7,2024-10-31 23:32:14
+120,Finlays Green Instant Tea (soluble Green Granules 40grams),950,1000,5,4.9,2024-10-31 23:32:14
+121,Bacardi Bacardi Spiced 700ml,1799,2336,23,4.3,2024-10-31 23:32:21
+122,Bombay Bombay Sapphire Gin (Bramble) - 750ml,2749,4275,36,4.6,2024-10-31 23:32:21
+123,Bombay Bombay Dry Gin - 750ml,1899,2675,29,4.6,2024-10-31 23:32:21
+124,Don Montego Vsop Brandy - 750ml,1950,2400,19,5.0,2024-10-31 23:32:21
+125,Carmela Sparkling White Semi-sweet Wine - 750ml,1600,1800,11,4.6,2024-10-31 23:32:21
+126,Martini Martini Rosso 750ml,2299,2645,13,4.7,2024-10-31 23:32:21
+127,Lato Milk UHT Whole Milk 500ml 18 Pcs,1800,0,0,5.0,2024-10-31 23:32:21
+128,Campo Viejo Campo Viejo Reserva Red Wine - 750 ML,1999,2319,14,4.7,2024-10-31 23:32:21
+129,Weight Loss Green  Instant Coffee,989,1200,18,0.0,2024-10-31 23:32:21
+130,Inverroche Inverroche Classic Gin - 750ml,4799,5484,12,4.9,2024-10-31 23:32:21
+131,Malfy Malfy Gin Con Rosa - 750ml,3999,4705,15,4.9,2024-10-31 23:32:21
+132,Tanqueray Tanqueray Nº Ten - 750 ML,4699,5100,8,5.0,2024-10-31 23:32:21
+133,Olmeca Silver Tequila – 700ml,2948,0,0,4.8,2024-10-31 23:32:21
+134,Johnnie Walker Johnnie Walker Gold Label Reserve - 750ml,7699,8800,13,0.0,2024-10-31 23:32:21
+135,Vina Lastra Red Dry Wine - 750ml,1400,0,0,3.8,2024-10-31 23:32:21
+136,Olmeca Olmeca Tequila Gold - 700ml,2599,2948,12,5.0,2024-10-31 23:32:21
+137,Malfy Malfy Gin Originale - 750ml,3999,4705,15,5.0,2024-10-31 23:32:21
+138,Electio Dry Red Cabernet Sauvignon Wine - 750ml,1225,1600,23,4.7,2024-10-31 23:32:21
+139,Chivas Chivas XV 15 years scotch whiskey - 750ml,7323,0,0,3.6,2024-10-31 23:32:21
+140,Blackseeds oil,1000,0,0,0.0,2024-10-31 23:32:21
+141,Cilmor Shiraz Pinotage Malbec Vintage Limited Edition Dry Red 750ml,2500,0,0,5.0,2024-10-31 23:32:21
+142,Lato Milk 250ML With Straw -24pcs,1600,0,0,5.0,2024-10-31 23:32:21
+143,Beefeater Beefeater London Pink Gin - 750ML,2299,3070,25,4.7,2024-10-31 23:32:21
+144,4th Street Red Sweet Wine - 5 Litres,6000,0,0,4.8,2024-10-31 23:32:21
+145,Dynapham Instant Coffee Mixture With Tongkat Ali,4000,8000,50,5.0,2024-10-31 23:32:21
+146,Absolut Absolut Mango Flavored Vodka - 750ml,2615,0,0,4.7,2024-10-31 23:32:21
+147,Beefeater London Dry Gin - 750ml,2886,0,0,4.5,2024-10-31 23:32:21
+148,Lofera Organic Herbal Flat Tummy Weight Loss Tea Detox Tea,1800,0,0,0.0,2024-10-31 23:32:21
+149,Gibsons Coffee Gibsons Instant Coffee 100g - (Pack of 3),1881,1980,5,0.0,2024-10-31 23:32:21
+150,Old Monk Rum 750ml,3705,5500,33,0.0,2024-10-31 23:32:21
+151,100% Organic Slim Tea Weight Loss Tea Fat Loss Tea 28days,1150,2200,50,3.5,2024-10-31 23:32:21
+152,Edmark Cafe  GINSENG,2550,0,0,0.0,2024-10-31 23:32:21
+153,Equatorial Naturals Neem & Tea Muarubaini - 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:32:21
+154,Equatorial Naturals Stinging Nettle (Thabai) 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:32:21
+155,Campari  Bitter Apéritif Rum,5000,6800,31,4.0,2024-10-31 23:32:21
+156,THREE ANGELS Soya Drink 100g,499,0,0,0.0,2024-10-31 23:32:21
+157,TRA Sliming Tea Catherine Herbal Infusion Detox Chrysanthemum,2500,0,0,0.0,2024-10-31 23:32:21
+158,THREE ANGELS Hibiscus Flower Powder 200G,695,0,0,2.7,2024-10-31 23:32:21
+159,Glenfiddich Whiskey 12 Years - 1 Litre,10000,0,0,0.0,2024-10-31 23:32:21
+160,Cellar Cask Sweet Red Wine 5 Litres,6400,9400,32,0.0,2024-10-31 23:32:21
+161,Classic High Quality Kenyan Black Tea - Foil Wrapped-500g,799,899,11,0.0,2024-10-31 23:32:34
+162,Eden Tea Purple Tea Anthocynanin Antioxidant Weight Loss Brain Health,1600,0,0,3.3,2024-10-31 23:32:34
+163,THREE ANGELS Brown Raisin 500g,995,0,0,5.0,2024-10-31 23:32:34
+164,Johnnie Walker Black Label - 1Ltr,8000,0,0,4.3,2024-10-31 23:32:34
+165,Edmark Cafe 73 Coffee Energizer,2500,0,0,1.0,2024-10-31 23:32:34
+166,Camus Cognac V.S.O.P Elegance - 700ml 40%,7000,0,0,5.0,2024-10-31 23:32:34
+167,Himalaya Green Tea - Lemon,1250,0,0,5.0,2024-10-31 23:32:34
+168,Benefit Slimming 2pcs Slimming Tea Green Diet Detox Tea Appetite Suppressant Weight Loss.,7200,0,0,5.0,2024-10-31 23:32:34
+169,Equatorial Naturals Mixed Herbal Health Drink - 25 Tea Bags,950,1300,27,0.0,2024-10-31 23:32:34
+170,Longrich Cordyceps Militaris Coffee,2699,0,0,0.0,2024-10-31 23:32:34
+171,Slim Green Coffee,1150,1999,42,0.0,2024-10-31 23:32:34
+172,Sheridans Coffee Liqueur 1L,13870,19000,27,0.0,2024-10-31 23:32:34
+173,SKYY Vodka 750ML,4275,6500,34,0.0,2024-10-31 23:32:34
+174,Willynur Spices Matcha Green Tea,8360,12000,30,0.0,2024-10-31 23:32:34
+175,Bacardi Carta Blanca Superior White Rum,4646,7000,36,0.0,2024-10-31 23:32:34
+176,Best Cream Liqueur 750ML,5510,8000,31,0.0,2024-10-31 23:32:34
+177,Beefeater London Pink Strawberry Gin 750ML,7600,10000,24,0.0,2024-10-31 23:32:34
+178,Hendricks London Dry Gin,11305,15800,38,0.0,2024-10-31 23:32:34
+179,Impact Botanics Africa Ltd Green Tea Organic Green Tea,620,0,0,4.0,2024-10-31 23:32:34
+180,Ciroc Snap Frost Vodka,8500,13000,38,0.0,2024-10-31 23:32:34
+181,Vobyl Black Tea (Pure ),250,0,0,5.0,2024-10-31 23:32:34
+182,Gibsons Coffee Kenya Gourmet Medium Ground 250g - (Pack of 6),3705,3900,5,0.0,2024-10-31 23:32:34
+183,Malibu Coconut Rum,5225,7000,37,0.0,2024-10-31 23:32:34
+184,Gordon Mediterranean Orange 700ml,5510,8000,31,0.0,2024-10-31 23:32:34
+185,Smirnoff No. 21 Vodka,4275,7000,48,0.0,2024-10-31 23:32:34
+186,Willynur Spices Matcha Green Tea,5890,9000,35,0.0,2024-10-31 23:32:34
+187,Longrich Pink Tea-15 Sachets,2500,0,0,0.0,2024-10-31 23:32:34
+188,Inverroche Gin Verdant 750Ml,8075,12000,33,0.0,2024-10-31 23:32:34
+189,Tanqueray Rangpur Lime 1 Litre,7125,9000,21,0.0,2024-10-31 23:32:34
+190,Ciroc Redberry 1L,9975,16000,38,0.0,2024-10-31 23:32:34
+191,Ginato Melograno Gin 700ML,6935,9000,23,0.0,2024-10-31 23:32:34
+192,Kaisugu Classic Finest Premium Kenyan Black Tea - Foil Wrapped-500g,799,899,11,5.0,2024-10-31 23:32:34
+193,Bacardi Spiced Rum,5035,8000,37,0.0,2024-10-31 23:32:34
+194,Tanqueray Malacca Gin 1L,6175,9000,31,0.0,2024-10-31 23:32:35
+195,Greenalls Wild Berry Pink Gin,4560,6000,24,0.0,2024-10-31 23:32:35
+196,Amaretto Disaronno  Originale Liqueurs 750ML,7600,14000,46,0.0,2024-10-31 23:32:35
+197,Caribia  Cane Spirit Gin 750Ml,4275,6000,29,0.0,2024-10-31 23:32:35
+198,Soup Bag Paper Empty Draw String Teabags Herb Tea Bag Pouch Loose White,112,206,46,0.0,2024-10-31 23:32:35
+199,Butlers Blue Curacao 750ml,5700,9000,37,0.0,2024-10-31 23:32:35
+200,Angostura Reserva 3 Years Old 700ML,5225,8000,35,0.0,2024-10-31 23:32:35
+201,De Kuyper Grande Orange Cocktail Liqueur - 700ml,1950,0,0,0.0,2024-10-31 23:32:43
+202,Longrich Cordyceps Militaris Coffee,2649,0,0,4.0,2024-10-31 23:32:43
+203,Smirnoff Lime Flavoured Vodka 1L,4750,6500,27,0.0,2024-10-31 23:32:43
+204,Martini  Rossi Rosso Vermouth,4275,6000,47,0.0,2024-10-31 23:32:43
+205,7 Years 750ML,7600,9900,23,0.0,2024-10-31 23:32:43
+206,Absolut Imported Vodka,5000,7000,32,0.0,2024-10-31 23:32:43
+207,Gordon Pink Premium Gin,5510,9000,39,0.0,2024-10-31 23:32:43
+208,Gordon Sicillian Lemon 1L,5700,9500,40,0.0,2024-10-31 23:32:43
+209,Longrich Cordcepts  Miltaries Coffee,1853,1950,5,0.0,2024-10-31 23:32:43
+210,Kahlua  Coffee Liqueur,5700,8000,37,0.0,2024-10-31 23:32:43
+211,Myers's Original Dark Rum,4900,7000,42,0.0,2024-10-31 23:32:43
+212,Gin Mare Distilled Mediterranean Gin,9025,13500,33,0.0,2024-10-31 23:32:43
+213,Tanqueray Sevilla Gin,5700,9000,37,0.0,2024-10-31 23:32:43
+214,Heath & Heather Rosehip Caffeine Free Herbal Tea- 20String Teabags,1800,0,0,0.0,2024-10-31 23:32:43
+215,Stolichnaya Cucumber Vodka 1L,4180,6000,30,0.0,2024-10-31 23:32:43
+216,Longrich GREEN Tea NutriVRich.,2500,0,0,0.0,2024-10-31 23:32:43
+217,Anejo 3 Years 750ML,5273,7000,25,0.0,2024-10-31 23:32:43
+218,Longrich Brown Tea (Tianjiang Tea/anti Lipid),2499,0,0,5.0,2024-10-31 23:32:43
+219,Four  Pillars Bloody Shiraz Gin 750ML,11210,18800,40,0.0,2024-10-31 23:32:43
+220,Whitley Neill Rhubarb & Ginger Gin 700ml,7125,9000,21,0.0,2024-10-31 23:32:43
+221,Angostura 5 Years Old 700ml,6270,8800,29,0.0,2024-10-31 23:32:43
+222,Jaisalmer Indian Craft Gin 750ml,8455,11000,23,0.0,2024-10-31 23:32:43
+223,Bacardi Carta Negra Black 750ml,4750,6500,27,0.0,2024-10-31 23:32:43
+224,Bols Triple Sec 700ml,4275,6000,29,0.0,2024-10-31 23:32:43
+225,Inverroche Gin Classic 750ml,8075,12000,33,0.0,2024-10-31 23:32:43
+226,Monin TRIPLE SEC SYRUP BOTTLE - 750ML,4275,6000,29,0.0,2024-10-31 23:32:43
+227,Tanqueray London Dry Gin Drink,5985,8000,30,0.0,2024-10-31 23:32:43
+228,jose cuervo silver,4275,6000,29,0.0,2024-10-31 23:32:43
+229,Cointreau Lunique Liqueur,7125,9000,21,0.0,2024-10-31 23:32:43
+230,Butlers Peppermint Liqueur 750Ml,4275,6000,29,0.0,2024-10-31 23:32:43
+231,Absolut Mango 750ML,5035,6000,16,0.0,2024-10-31 23:32:43
+232,Vobyl Nursing Mothers  Tea,800,0,0,0.0,2024-10-31 23:32:43
+233,Musgrave Premium Crafted Gin 750ml,8835,11500,23,0.0,2024-10-31 23:32:43
+234,Butlers Strawberry Liqueur 750Ml,4703,6000,22,0.0,2024-10-31 23:32:43
+235,Mg Originals Gin 700ml,4750,9000,47,0.0,2024-10-31 23:32:43
+236,Bloedlemoen Original Gin 750ML,8550,15000,43,0.0,2024-10-31 23:32:43
+237,Tia Maria Liqueur,5225,7000,25,0.0,2024-10-31 23:32:43
+238,jose cuervo gold,4560,8000,43,0.0,2024-10-31 23:32:43
+239,Ginato Clementino Gin 700ml,6935,9000,23,0.0,2024-10-31 23:32:43
+240,Tanqueray Rangpur Distilled Gin - 700ml,2599,3000,13,5.0,2024-10-31 23:32:43
+241,Singleton Singleton of Dufftown 12 yrs single malt whisky - 700ml,5299,5800,9,4.5,2024-10-31 23:32:56
+242,Tanqueray Tanqueray Distilled Gin Flor De Sevilla Gin - 700ml,2599,3000,13,4.8,2024-10-31 23:32:56
+243,GORDON'S Gordon'S Dry Gin - 750cl,2199,2400,8,4.7,2024-10-31 23:32:56
+244,Tanqueray Tanqueray London Dry Gin - 750ml,2649,2900,9,4.5,2024-10-31 23:32:56
+245,White Cap White cap Lager Cans 500ml - 6 Pack,1249,1560,20,4.7,2024-10-31 23:32:56
+246,Tanqueray Blackcurrant Royale - 700ml,2599,3000,13,4.6,2024-10-31 23:32:56
+247,"Campo Viejo Reserva Red Wine - 750 ML,",1818,0,0,4.1,2024-10-31 23:32:56
+248,Seagrams Seagrams Imperial Blue Whiskey - 750ml,849,1143,26,4.3,2024-10-31 23:35:54
+249,Jameson Jameson Irish Whiskey - 750 Ml,2199,2930,25,4.7,2024-10-31 23:35:54
+250,William Lawson's William Lawson's Scotch Whisky – 750ml,1199,1990,40,4.5,2024-10-31 23:35:54
+251,Chrome Chrome Gin - 750ml,669,760,12,4.4,2024-10-31 23:35:54
+252,Jameson Jameson Irish Whiskey - 1 Litre,2999,3736,20,4.6,2024-10-31 23:35:54
+253,Hampton American Malt Blended Whiskey - 750ml,1450,1700,15,4.4,2024-10-31 23:35:54
+254,William Lawson's William Lawsons Scotch Whisky - 1 Litre,1799,2650,32,4.8,2024-10-31 23:35:54
+255,Ballantine's Ballantine's Blended Scotch Whiskey - 750 Ml.,1999,2482,19,4.7,2024-10-31 23:35:54
+256,Ballantine Ballantine Blended Scotch Whiskey - 1L,2599,3309,21,4.5,2024-10-31 23:35:54
+257,Johnnie Walker Johnnie Walker Black 12Y - 750ml,2999,4200,29,4.4,2024-10-31 23:35:54
+258,Gilbey's Gilbey's Gilbeys Gin - 750 ML,999,1550,36,4.3,2024-10-31 23:35:54
+259,Johnnie Walker Johnnie Walker Red Label - 750 ML,1599,2300,30,4.5,2024-10-31 23:35:54
+260,Black Bird Natural Sweet Red Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:35:54
+261,Black & White Black & White Whisky - 750ml,1249,1400,11,4.5,2024-10-31 23:35:54
+262,Tusker Tusker Lager Can - 500ml - Pack of 6,1099,1380,20,4.7,2024-10-31 23:35:54
+263,Jacob's Creek Jacob's Creek Classic Merlot 750Ml,1299,1439,10,4.5,2024-10-31 23:35:54
+264,Captain Morgan Captain Morgan Gold Rum - 750ml,999,1150,13,4.8,2024-10-31 23:35:54
+265,Johnnie Walker Johnnie Walker Red Label - 1 Litre,2199,2800,21,4.6,2024-10-31 23:35:54
+266,Malibu Malibu Carribean Rum With Coconut Liqueur - 700ml,1799,2060,13,4.7,2024-10-31 23:35:54
+267,Bacardi Bacardi Carta De Oro 750ml,1699,2425,30,4.6,2024-10-31 23:35:54
+268,Martini Martini Bianco 750ml,2199,2645,17,4.7,2024-10-31 23:35:54
+269,Bombay Bombay Sapphire Gin 750ml,2799,3640,23,5.0,2024-10-31 23:35:54
+270,Johnnie Walker Johnnie Walker Black Label - 1litre,3899,5200,25,4.5,2024-10-31 23:35:54
+271,Absolut Absolut Vodka Blue - 750ml,2199,2457,11,4.5,2024-10-31 23:35:54
+272,Balozi Lager Cans 500ml - Pack of 6,1099,1380,20,4.8,2024-10-31 23:35:54
+273,William Lawson's WillIam Lawsons Spiced Whisky 700ml,1699,2020,16,4.4,2024-10-31 23:35:54
+274,Black Bird Natural Sweet White Wine - 750ml,1090,1350,19,4.3,2024-10-31 23:35:54
+275,Absolut Vodka Citron - 750ML,1834,0,0,4.9,2024-10-31 23:35:54
+276,Bacardi Bacardi Carta Negra 750ml,1799,2425,26,4.6,2024-10-31 23:35:54
+277,Beefeater Beefeater London Dry Gin - 750ml,2199,2886,24,4.7,2024-10-31 23:35:54
+278,Tusker Tusker Cider Can - 500ml - Pack Of 6,1349,1590,15,4.5,2024-10-31 23:35:54
+279,Impact Stinging Nettle Thabai Powder Organic And Pure-100g,220,430,49,4.3,2024-10-31 23:35:54
+280,Playa Del Sol Malbec Dry Red Wine - 750ml,1495,1950,23,5.0,2024-10-31 23:35:54
+281,Martini Martini Fierro 750ml,1699,2577,34,4.7,2024-10-31 23:35:54
+282,SLIMMING TEA 28 Day Extreme Detox Weight loss Tea Fat burn Cleanse Appetite Control flat tummy tea small waist,1145,2000,43,5.0,2024-10-31 23:35:54
+283,Smirnoff Smirnoff Red Vodka - 750ml,1199,1550,23,4.8,2024-10-31 23:35:54
+284,Jameson Jameson Black Barrel Irish Whiskey - 750ml,4199,4591,9,4.5,2024-10-31 23:35:54
+285,Malfy Malfy Gin Con Limone - 750ml,3999,4705,15,5.0,2024-10-31 23:35:54
+286,Martini Martini Prosecco,2119,0,0,4.7,2024-10-31 23:35:54
+287,Finlays Green Instant Tea (soluble Green Granules 40grams),950,1000,5,4.9,2024-10-31 23:35:54
+288,Bacardi Bacardi Spiced 700ml,1799,2336,23,4.3,2024-10-31 23:36:03
+289,Bombay Bombay Sapphire Gin (Bramble) - 750ml,2749,4275,36,4.6,2024-10-31 23:36:03
+290,Bombay Bombay Dry Gin - 750ml,1899,2675,29,4.6,2024-10-31 23:36:03
+291,Don Montego Vsop Brandy - 750ml,1950,2400,19,5.0,2024-10-31 23:36:03
+292,Carmela Sparkling White Semi-sweet Wine - 750ml,1600,1800,11,4.6,2024-10-31 23:36:03
+293,Martini Martini Rosso 750ml,2299,2645,13,4.7,2024-10-31 23:36:03
+294,Lato Milk UHT Whole Milk 500ml 18 Pcs,1800,0,0,5.0,2024-10-31 23:36:03
+295,Campo Viejo Campo Viejo Reserva Red Wine - 750 ML,1999,2319,14,4.7,2024-10-31 23:36:03
+296,Weight Loss Green  Instant Coffee,989,1200,18,0.0,2024-10-31 23:36:03
+297,Inverroche Inverroche Classic Gin - 750ml,4799,5484,12,4.9,2024-10-31 23:36:03
+298,Malfy Malfy Gin Con Rosa - 750ml,3999,4705,15,4.9,2024-10-31 23:36:03
+299,Tanqueray Tanqueray Nº Ten - 750 ML,4699,5100,8,5.0,2024-10-31 23:36:03
+300,Olmeca Silver Tequila – 700ml,2948,0,0,4.8,2024-10-31 23:36:03
+301,Johnnie Walker Johnnie Walker Gold Label Reserve - 750ml,7699,8800,13,0.0,2024-10-31 23:36:03
+302,Vina Lastra Red Dry Wine - 750ml,1400,0,0,3.8,2024-10-31 23:36:03
+303,Olmeca Olmeca Tequila Gold - 700ml,2599,2948,12,5.0,2024-10-31 23:36:03
+304,Malfy Malfy Gin Originale - 750ml,3999,4705,15,5.0,2024-10-31 23:36:03
+305,Electio Dry Red Cabernet Sauvignon Wine - 750ml,1225,1600,23,4.7,2024-10-31 23:36:03
+306,Chivas Chivas XV 15 years scotch whiskey - 750ml,7323,0,0,3.6,2024-10-31 23:36:03
+307,Blackseeds oil,1000,0,0,0.0,2024-10-31 23:36:03
+308,Cilmor Shiraz Pinotage Malbec Vintage Limited Edition Dry Red 750ml,2500,0,0,5.0,2024-10-31 23:36:03
+309,Lato Milk 250ML With Straw -24pcs,1600,0,0,5.0,2024-10-31 23:36:03
+310,Beefeater Beefeater London Pink Gin - 750ML,2299,3070,25,4.7,2024-10-31 23:36:03
+311,4th Street Red Sweet Wine - 5 Litres,6000,0,0,4.8,2024-10-31 23:36:03
+312,Dynapham Instant Coffee Mixture With Tongkat Ali,4000,8000,50,5.0,2024-10-31 23:36:03
+313,Absolut Absolut Mango Flavored Vodka - 750ml,2615,0,0,4.7,2024-10-31 23:36:03
+314,Beefeater London Dry Gin - 750ml,2886,0,0,4.5,2024-10-31 23:36:03
+315,Lofera Organic Herbal Flat Tummy Weight Loss Tea Detox Tea,1800,0,0,0.0,2024-10-31 23:36:03
+316,Gibsons Coffee Gibsons Instant Coffee 100g - (Pack of 3),1881,1980,5,0.0,2024-10-31 23:36:03
+317,Old Monk Rum 750ml,3705,5500,33,0.0,2024-10-31 23:36:03
+318,100% Organic Slim Tea Weight Loss Tea Fat Loss Tea 28days,1150,2200,50,3.5,2024-10-31 23:36:03
+319,Edmark Cafe  GINSENG,2550,0,0,0.0,2024-10-31 23:36:03
+320,Equatorial Naturals Neem & Tea Muarubaini - 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:36:03
+321,Equatorial Naturals Stinging Nettle (Thabai) 25 Teabags - 50g,950,1200,21,0.0,2024-10-31 23:36:03
+322,Campari  Bitter Apéritif Rum,5000,6800,31,4.0,2024-10-31 23:36:03
+323,THREE ANGELS Soya Drink 100g,499,0,0,0.0,2024-10-31 23:36:03
+324,TRA Sliming Tea Catherine Herbal Infusion Detox Chrysanthemum,2500,0,0,0.0,2024-10-31 23:36:03
+325,THREE ANGELS Hibiscus Flower Powder 200G,695,0,0,2.7,2024-10-31 23:36:03
+326,Glenfiddich Whiskey 12 Years - 1 Litre,10000,0,0,0.0,2024-10-31 23:36:03
+327,Cellar Cask Sweet Red Wine 5 Litres,6400,9400,32,0.0,2024-10-31 23:36:03
+328,Classic High Quality Kenyan Black Tea - Foil Wrapped-500g,799,899,11,0.0,2024-10-31 23:36:09
+329,Eden Tea Purple Tea Anthocynanin Antioxidant Weight Loss Brain Health,1600,0,0,3.3,2024-10-31 23:36:09
+330,THREE ANGELS Brown Raisin 500g,995,0,0,5.0,2024-10-31 23:36:09
+331,Johnnie Walker Black Label - 1Ltr,8000,0,0,4.3,2024-10-31 23:36:09
+332,Edmark Cafe 73 Coffee Energizer,2500,0,0,1.0,2024-10-31 23:36:10
+333,Camus Cognac V.S.O.P Elegance - 700ml 40%,7000,0,0,5.0,2024-10-31 23:36:10
+334,Himalaya Green Tea - Lemon,1250,0,0,5.0,2024-10-31 23:36:10
+335,Benefit Slimming 2pcs Slimming Tea Green Diet Detox Tea Appetite Suppressant Weight Loss.,7200,0,0,5.0,2024-10-31 23:36:10
+336,Equatorial Naturals Mixed Herbal Health Drink - 25 Tea Bags,950,1300,27,0.0,2024-10-31 23:36:10
+337,Longrich Cordyceps Militaris Coffee,2699,0,0,0.0,2024-10-31 23:36:10
+338,Slim Green Coffee,1150,1999,42,0.0,2024-10-31 23:36:10
+339,Sheridans Coffee Liqueur 1L,13870,19000,27,0.0,2024-10-31 23:36:10
+340,SKYY Vodka 750ML,4275,6500,34,0.0,2024-10-31 23:36:10
+341,Willynur Spices Matcha Green Tea,8360,12000,30,0.0,2024-10-31 23:36:10
+342,Bacardi Carta Blanca Superior White Rum,4646,7000,36,0.0,2024-10-31 23:36:10
+343,Best Cream Liqueur 750ML,5510,8000,31,0.0,2024-10-31 23:36:10
+344,Beefeater London Pink Strawberry Gin 750ML,7600,10000,24,0.0,2024-10-31 23:36:10
+345,Hendricks London Dry Gin,11305,15800,38,0.0,2024-10-31 23:36:10
+346,Impact Botanics Africa Ltd Green Tea Organic Green Tea,620,0,0,4.0,2024-10-31 23:36:10
+347,Ciroc Snap Frost Vodka,8500,13000,38,0.0,2024-10-31 23:36:10
+348,Vobyl Black Tea (Pure ),250,0,0,5.0,2024-10-31 23:36:10
+349,Gibsons Coffee Kenya Gourmet Medium Ground 250g - (Pack of 6),3705,3900,5,0.0,2024-10-31 23:36:10
+350,Malibu Coconut Rum,5225,7000,37,0.0,2024-10-31 23:36:10
+351,Gordon Mediterranean Orange 700ml,5510,8000,31,0.0,2024-10-31 23:36:10
+352,Smirnoff No. 21 Vodka,4275,7000,48,0.0,2024-10-31 23:36:10
+353,Willynur Spices Matcha Green Tea,5890,9000,35,0.0,2024-10-31 23:36:10
+354,Longrich Pink Tea-15 Sachets,2500,0,0,0.0,2024-10-31 23:36:10
+355,Inverroche Gin Verdant 750Ml,8075,12000,33,0.0,2024-10-31 23:36:10
+356,Tanqueray Rangpur Lime 1 Litre,7125,9000,21,0.0,2024-10-31 23:36:10
+357,Ciroc Redberry 1L,9975,16000,38,0.0,2024-10-31 23:36:10
+358,Ginato Melograno Gin 700ML,6935,9000,23,0.0,2024-10-31 23:36:10
+359,Kaisugu Classic Finest Premium Kenyan Black Tea - Foil Wrapped-500g,799,899,11,5.0,2024-10-31 23:36:10
+360,Bacardi Spiced Rum,5035,8000,37,0.0,2024-10-31 23:36:10
+361,Tanqueray Malacca Gin 1L,6175,9000,31,0.0,2024-10-31 23:36:10
+362,Greenalls Wild Berry Pink Gin,4560,6000,24,0.0,2024-10-31 23:36:10
+363,Amaretto Disaronno  Originale Liqueurs 750ML,7600,14000,46,0.0,2024-10-31 23:36:10
+364,Caribia  Cane Spirit Gin 750Ml,4275,6000,29,0.0,2024-10-31 23:36:10
+365,Soup Bag Paper Empty Draw String Teabags Herb Tea Bag Pouch Loose White,112,206,46,0.0,2024-10-31 23:36:10
+366,Butlers Blue Curacao 750ml,5700,9000,37,0.0,2024-10-31 23:36:11
+367,Angostura Reserva 3 Years Old 700ML,5225,8000,35,0.0,2024-10-31 23:36:11
+368,De Kuyper Grande Orange Cocktail Liqueur - 700ml,1950,0,0,0.0,2024-10-31 23:36:17
+369,Longrich Cordyceps Militaris Coffee,2649,0,0,4.0,2024-10-31 23:36:17
+370,Smirnoff Lime Flavoured Vodka 1L,4750,6500,27,0.0,2024-10-31 23:36:17
+371,Martini  Rossi Rosso Vermouth,4275,6000,47,0.0,2024-10-31 23:36:17
+372,7 Years 750ML,7600,9900,23,0.0,2024-10-31 23:36:17
+373,Absolut Imported Vodka,5000,7000,32,0.0,2024-10-31 23:36:17
+374,Gordon Pink Premium Gin,5510,9000,39,0.0,2024-10-31 23:36:17
+375,Gordon Sicillian Lemon 1L,5700,9500,40,0.0,2024-10-31 23:36:17
+376,Longrich Cordcepts  Miltaries Coffee,1853,1950,5,0.0,2024-10-31 23:36:17
+377,Kahlua  Coffee Liqueur,5700,8000,37,0.0,2024-10-31 23:36:17
+378,Myers's Original Dark Rum,4900,7000,42,0.0,2024-10-31 23:36:17
+379,Gin Mare Distilled Mediterranean Gin,9025,13500,33,0.0,2024-10-31 23:36:17
+380,Tanqueray Sevilla Gin,5700,9000,37,0.0,2024-10-31 23:36:17
+381,Heath & Heather Rosehip Caffeine Free Herbal Tea- 20String Teabags,1800,0,0,0.0,2024-10-31 23:36:17
+382,Stolichnaya Cucumber Vodka 1L,4180,6000,30,0.0,2024-10-31 23:36:17
+383,Longrich GREEN Tea NutriVRich.,2500,0,0,0.0,2024-10-31 23:36:17
+384,Anejo 3 Years 750ML,5273,7000,25,0.0,2024-10-31 23:36:17
+385,Longrich Brown Tea (Tianjiang Tea/anti Lipid),2499,0,0,5.0,2024-10-31 23:36:17
+386,Four  Pillars Bloody Shiraz Gin 750ML,11210,18800,40,0.0,2024-10-31 23:36:17
+387,Whitley Neill Rhubarb & Ginger Gin 700ml,7125,9000,21,0.0,2024-10-31 23:36:17
+388,Angostura 5 Years Old 700ml,6270,8800,29,0.0,2024-10-31 23:36:17
+389,Jaisalmer Indian Craft Gin 750ml,8455,11000,23,0.0,2024-10-31 23:36:17
+390,Bacardi Carta Negra Black 750ml,4750,6500,27,0.0,2024-10-31 23:36:17
+391,Bols Triple Sec 700ml,4275,6000,29,0.0,2024-10-31 23:36:17
+392,Inverroche Gin Classic 750ml,8075,12000,33,0.0,2024-10-31 23:36:17
+393,Monin TRIPLE SEC SYRUP BOTTLE - 750ML,4275,6000,29,0.0,2024-10-31 23:36:17
+394,Tanqueray London Dry Gin Drink,5985,8000,30,0.0,2024-10-31 23:36:17
+395,jose cuervo silver,4275,6000,29,0.0,2024-10-31 23:36:18
+396,Cointreau Lunique Liqueur,7125,9000,21,0.0,2024-10-31 23:36:18
+397,Butlers Peppermint Liqueur 750Ml,4275,6000,29,0.0,2024-10-31 23:36:18
+398,Absolut Mango 750ML,5035,6000,16,0.0,2024-10-31 23:36:18
+399,Vobyl Nursing Mothers  Tea,800,0,0,0.0,2024-10-31 23:36:18
+400,Musgrave Premium Crafted Gin 750ml,8835,11500,23,0.0,2024-10-31 23:36:18
+401,Butlers Strawberry Liqueur 750Ml,4703,6000,22,0.0,2024-10-31 23:36:18
+402,Mg Originals Gin 700ml,4750,9000,47,0.0,2024-10-31 23:36:18
+403,Bloedlemoen Original Gin 750ML,8550,15000,43,0.0,2024-10-31 23:36:18
+404,Tia Maria Liqueur,5225,7000,25,0.0,2024-10-31 23:36:18
+405,jose cuervo gold,4560,8000,43,0.0,2024-10-31 23:36:18
+406,Ginato Clementino Gin 700ml,6935,9000,23,0.0,2024-10-31 23:36:18
+407,Tanqueray Rangpur Distilled Gin - 700ml,2599,3000,13,5.0,2024-10-31 23:36:18
+408,Singleton Singleton of Dufftown 12 yrs single malt whisky - 700ml,5299,5800,9,4.5,2024-10-31 23:36:24
+409,Tanqueray Tanqueray Distilled Gin Flor De Sevilla Gin - 700ml,2599,3000,13,4.8,2024-10-31 23:36:24
+410,GORDON'S Gordon'S Dry Gin - 750cl,2199,2400,8,4.7,2024-10-31 23:36:24
+411,Tanqueray Tanqueray London Dry Gin - 750ml,2649,2900,9,4.5,2024-10-31 23:36:24
+412,White Cap White cap Lager Cans 500ml - 6 Pack,1249,1560,20,4.7,2024-10-31 23:36:24
+413,Tanqueray Blackcurrant Royale - 700ml,2599,3000,13,4.6,2024-10-31 23:36:24
+414,"Campo Viejo Reserva Red Wine - 750 ML,",1818,0,0,4.1,2024-10-31 23:36:24
